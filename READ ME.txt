@@ -1,0 +1,5 @@
+for saving plates press s
+for quit q
+
+
+
